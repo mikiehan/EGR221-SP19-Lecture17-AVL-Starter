@@ -14,7 +14,6 @@ package bst;// bst.BinarySearchTree class
 // ******************ERRORS********************************
 // Throws util.UnderflowException as appropriate
 
-import avl.AvlNode;
 import util.UnderflowException;
 
 /**
